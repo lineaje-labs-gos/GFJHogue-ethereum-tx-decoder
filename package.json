@@ -1,6 +1,6 @@
 {
   "name": "ethereum-tx-decoder",
-  "version": "3.0.0",
+  "version": "3.0.0-lineaje-01",
   "description": "Lightweight utility for decoding function parameters from Ethereum transactions.",
   "keywords": [
     "ethereum",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GFJHogue/ethereum-tx-decoder.git"
+    "url": "https://github.com/lineaje-labs-gos/GFJHogue-ethereum-tx-decoder"
   },
   "bugs": {
     "url": "https://github.com/GFJHogue/ethereum-tx-decoder/issues"
@@ -40,6 +40,12 @@
   },
   "author": "Gregory F. J. Hogue",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "dependencies": {
     "ethers": "^4.0.37"
   },
