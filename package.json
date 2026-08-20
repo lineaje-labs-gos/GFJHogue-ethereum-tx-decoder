@@ -50,6 +50,13 @@
     "ethers": "^4.0.37"
   },
   "devDependencies": {
-    "mocha": "5.1.1"
+    "mocha": "5.1.1",
+    "typescript": "^7.0.2"
+  },
+  "overrides": {
+    "elliptic": ">=6.6.1"
+  },
+  "resolutions": {
+    "elliptic": ">=6.6.1"
   }
 }
